@@ -6,7 +6,7 @@ mkdir NEWSITE
 
 cd NEWSITE
 
-git clone https://github.com/anovobilskischool/template.git
+git clone 
 
 CD tailwindfamily
 	
